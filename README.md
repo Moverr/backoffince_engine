@@ -1,7 +1,9 @@
-# Play REST API
-
-This is the example project for [Making a REST API in Play](http://developer.lightbend.com/guides/play-rest-api/index.html).
-
+# SCHOLAR BACK OFFICE ENGINE
+<hr/>
+This is the engine that will manage account opening, run school creation
+deamons, wallet management and highlevel reporting system accross school IOT system
+ 
+It is build on top of scala microservices and akka 
 ## Appendix
 
 ### Running
